@@ -1,0 +1,10 @@
+{
+  "name": "FRESCO",
+  "description": "The FRESCO utilities plugin for Horus",
+  "author": "BSC and RUG",
+  "version": "0.0.1",
+  "pluginFile": "FRESCO.py",
+  "dependencies": [
+
+  ]
+}
